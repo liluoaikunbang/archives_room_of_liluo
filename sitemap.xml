@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/gallery/index.html</loc>
-    
-    <lastmod>2021-09-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2021-09-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yourname.github.io/archives_room_of_liluo/post/zhu-yi-shi-xiang.html</loc>
     
     <lastmod>2021-09-26</lastmod>
@@ -23,9 +9,149 @@
   </url>
   
   <url>
-    <loc>https://yourname.github.io/archives_room_of_liluo/videos/mode/index.html</loc>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/ren-she/li-luo-ren-she.html</loc>
     
-    <lastmod>2020-06-22</lastmod>
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/ming-jie/di-yu.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/about/index.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/xing-jie/xing-kong-zhi-hai.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/xing-jie/xiao-qian-shi-jie.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/xing-jie/niu-qu-xu-kong.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/xing-jie/hong-huang.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/xing-jie/da-qian-shi-jie.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/tian-jie/li-luo-ling-di.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/tian-jie/huan-xiang-wei-mian.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/tian-jie/bi-an.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/mo-jie/wu-xian-da-lu.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/mo-jie/shen-yuan.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/ming-jie/zu-zhou.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/ming-jie/xie-hai.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/si-jie/ming-jie/jiao-tu.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/jin-fu-zhuang-bei.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/ren-she/ming-xue-ren-she.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/post/ren-she/ming-wu-ren-she.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/categories/index.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/archives/index.html</loc>
+    
+    <lastmod>2021-09-25</lastmod>
     
   </url>
   
@@ -39,5 +165,26 @@
 
   
 
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/categories/%E8%A3%85%E5%A4%87/</loc>
+    <lastmod>2021-09-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/categories/%E4%BA%BA%E8%AE%BE/</loc>
+    <lastmod>2021-09-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yourname.github.io/archives_room_of_liluo/categories/%E5%9B%9B%E7%95%8C/</loc>
+    <lastmod>2021-09-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
